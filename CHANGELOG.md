@@ -1,3 +1,22 @@
+## Released 15 October 2026
+
+### :lock: Strengthened permissions around adding incidents
+
+* We've recently strengthened permissions around adding incidents.
+* To ensure that staff can add incidents to the platform, they must belong to a team with the following permissions ON:
+    * Incidents module
+    * Students add
+    * [where appropriate] Staff add
+* Learn more about how to change team permissions in our [knowledge base article](https://help.medicaltracker.co.uk/en/add-incident-permissions).
+
+<img width="1340" height="757" alt="image" src="https://github.com/user-attachments/assets/47a33f75-7799-4824-b63b-4ea4769c16ed" />
+
+### :bug: Bugfix
+
+* Users logging in with single sign on (SSO) before setting a password would sometimes see a white screen and be unable to access Medical Tracker after logging in. This has now been fixed.
+
+</br>
+
 ## Released 1 October 2026  
 
 ### :sneezing_face: New automated allergy email notification
