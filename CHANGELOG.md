@@ -15,7 +15,7 @@
 
 * Users logging in with single sign on (SSO) before setting a password would sometimes see a white screen and be unable to access Medical Tracker after logging in. This has now been fixed.
 
-</br>
+---
 
 ## Released 1 October 2026  
 
