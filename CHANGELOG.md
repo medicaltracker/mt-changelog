@@ -1,3 +1,11 @@
+## Released 3 November 2026
+### :clipboard: New care plan fields
+* We've updated our care plan fields to align with the language and order of the fields in the DFE's allergy and asthma template. All fields are optional and appear on page 2 of the form, after you click Next.
+* We recognise the importance of capturing this information for students with any condition, not just allergies, and so have made these available in all care plan types.
+* Learn more about this change in our [knowledgebase article](https://help.medicaltracker.co.uk/en/ihp-updates-2026).
+
+---
+
 ## Released 15 October 2026
 
 ### :lock: Strengthened permissions around adding incidents
