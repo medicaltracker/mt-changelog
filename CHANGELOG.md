@@ -1,3 +1,20 @@
+## Released 10 November 2026
+### :left_right_arrow: Trust overview: Choose between tile or table view
+* Default is the TILE view; any change is remembered for the session.
+* The table can be sorted to make it easier to identify schools that might need support, for example, schools that haven’t logged an incident in some time, or aren’t using the **Medication use** module.
+* Data can now be exported to CSV from both views via the Export button
+
+### :sparkles: Trust overview: Small visual changes
+* Improved alignment of items in the top right along with a link to this **Updates** file
+* Please note that **Sign out** is now ONLY available in the lower left corner
+
+### :bug: Bugfixes
+* Incident types without a 'what happened next field' (e.g. near misses) are no longer included in the **What happened next report**
+* Header and footer images now display for UAE schools
+
+
+---
+
 ## Released 3 November 2026
 ### :clipboard: New care plan fields
 * We've updated our care plan fields to align with the language and order of the fields in the DFE's allergy and asthma template. All fields are optional and appear on page 2 of the form, after you click Next.
